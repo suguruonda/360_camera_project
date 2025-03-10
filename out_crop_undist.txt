@@ -1,0 +1,212 @@
+1 Papilio_Rutulus-001
+5 min 20 sec
+2 Papilio_Zelicaon-001
+5 min 15 sec
+3 Papilio_Indra-001
+5 min 12 sec
+4 Papilio_Machaon-001
+5 min 14 sec
+5 Parnassius_Smintheus-001
+5 min 14 sec
+6 Pieris_Rapae-001
+5 min 15 sec
+7 Pontia_Protodice-001
+5 min 13 sec
+8 Pontia_Occidentalis-001
+5 min 14 sec
+9 Neophasia_Menapia-001
+5 min 14 sec
+10 Euchloe_Ausonides-001
+5 min 14 sec
+11 Anthocharis_Julia-001
+5 min 11 sec
+12 Colias_Philodice-001
+5 min 12 sec
+13 Colias_Eurytheme-001
+5 min 13 sec
+14 Colias_Christina-001
+5 min 13 sec
+15 Celastrina_Ladon-001
+5 min 12 sec
+16 Plebejus_Melissa-001
+5 min 14 sec
+17 Glaucopsyche_Lygdamus-001
+5 min 13 sec
+18 Cupido_Amyntula-001
+5 min 13 sec
+19 Plebejus_Acmon-001
+5 min 16 sec
+20 Tharsalea_Rubidus-001
+5 min 7 sec
+21 Tharsalea_Heteronea-001
+5 min 27 sec
+22 Lycaena_Hyllus-001
+5 min 17 sec
+23 Tharsalea_Helloides-001
+5 min 11 sec
+24 Polygonia_Satyrus-001
+6 min 28 sec
+25 Nymphalis_Californica-001
+5 min 4 sec
+26 Hypaurotis_Crysalus-001
+5 min 3 sec
+27 Strymon_Melinus-001
+5 min 2 sec
+28 Satyrium_Sylvinus-001
+5 min 4 sec
+29 Satyrium_Behrii-001
+5 min 47 sec
+30 Callophrys_Gryneus-001
+5 min 4 sec
+31 Callophrys_Eryphon-001
+5 min 4 sec
+32 Apodemia_Mormo-001
+5 min 5 sec
+33 Nymphalis_Antiopa-001
+5 min 7 sec
+34 Aglais_Milberti-001
+5 min 7 sec
+35 Epargyreus_Clarus-001
+5 min 6 sec
+36 Thorybes_Pylades-001
+5 min 5 sec
+37 Erynnis_Telemachus-001
+5 min 6 sec
+38 Burnsius_Communis-001
+5 min 6 sec
+39 Amblyscirtes_Vialis-001
+5 min 7 sec
+40 Hesperia_Juba-001
+5 min 7 sec
+41 Ochlodes_Sylvanoides-001
+5 min 6 sec
+42 Lon_Taxiles-001
+5 min 7 sec
+43 Polites_Sabuleti-001
+5 min 7 sec
+44 Vanessa_Atalanta-001
+5 min 8 sec
+45 Vanessa_Cardui-001
+5 min 9 sec
+46 Junonia_Coenia-001
+5 min 7 sec
+47 Chlosyne_Leanira-001
+5 min 7 sec
+48 Chlosyne_Acastus-001
+5 min 7 sec
+49 Euphydryas_Anicia-001
+5 min 8 sec
+50 Phyciodes_Cocyta-001
+5 min 7 sec
+51 Phyciodes_Pulchella-001
+5 min 6 sec
+52 Boloria_Kriemhild-001
+5 min 5 sec
+53 Boloria_Selene-001
+5 min 7 sec
+54 Adelpha_Eulalia-001
+5 min 9 sec
+55 Limenitis_Weidemeyerii-001
+5 min 8 sec
+56 Limenitis_Archippus-001
+5 min 8 sec
+57 Speyeria_Cybele-001
+5 min 9 sec
+58 Speyeria_Coronis-001
+5 min 7 sec
+59 Cercyonis_Pegala-001
+5 min 6 sec
+60 Cercyonis_Pegala-002
+5 min 6 sec
+61 Papilio_Indra-002
+5 min 7 sec
+62 Papilio_Zelicaon-002
+5 min 6 sec
+63 Papilio_Polyxenes-001
+5 min 8 sec
+64 Papilio_Machaon-002
+5 min 7 sec
+65 Papilio_Machaon-003
+5 min 9 sec
+66 Papilio_Multicaudata-001
+5 min 10 sec
+67 Papilio_Rutulus-002
+5 min 10 sec
+68 Papilio_Eurymedon-001
+5 min 11 sec
+69 Parnassius_Smintheus-002
+5 min 8 sec
+70 Parnassius_Clodius-001
+5 min 7 sec
+71 Colias_Occidentalis-001
+5 min 6 sec
+72 Colias_Eurytheme-002
+5 min 7 sec
+73 Colias_Philodice-002
+5 min 6 sec
+74 Colias_Alexandra-001
+5 min 8 sec
+75 Colias_Meadii-001
+5 min 7 sec
+76 Colias_Scudderii-001
+5 min 7 sec
+77 Nathalis_Iole-001
+5 min 13 sec
+78 Neophasia_Menapia-002
+4 min 45 sec
+79 Pontia_Occidentalis-002
+4 min 42 sec
+80 Pontia_Protodice-002
+4 min 55 sec
+81 Pontia_Sisymbrii-001
+4 min 58 sec
+82 Pontia_Beckerii-001
+4 min 45 sec
+83 Pieris_Rapae-002
+4 min 45 sec
+84 Pieris_Marginalis-001
+4 min 50 sec
+85 Euchloe_Ausonides-002
+4 min 54 sec
+86 Euchloe_Lotta-001
+4 min 47 sec
+87 Anthocharis_Julia-002
+4 min 38 sec
+88 Anthocharis_Thoosa-001
+4 min 38 sec
+89 Anthocharis_Cethura-001
+4 min 43 sec
+90 Cercyonis_Sthenele-001
+4 min 47 sec
+91 Cercyonis_Oetus-001
+4 min 42 sec
+92 Cercyonis_Meadii-001
+4 min 45 sec
+93 Cercyonis_Pegala-003
+4 min 59 sec
+94 Cercyonis_Pegala-004
+4 min 53 sec
+95 Erebia_Epipsodea-001
+4 min 56 sec
+96 Erebia_Callias-001
+4 min 53 sec
+97 Erebia_Magdalena-001
+4 min 50 sec
+98 Coenonympha_California-001
+4 min 43 sec
+99 Cyllopsis_Pertepida-001
+4 min 47 sec
+100 Danaus_Gilippus-001
+4 min 45 sec
+101 Oeneis_Chryxus-001
+4 min 48 sec
+102 Oeneis_Jutta-001
+4 min 42 sec
+103 Oeneis_Bore-001
+4 min 52 sec
+104 Oeneis_Melissa-001
+4 min 52 sec
+105 Oeneis_Uhleri-001
+4 min 40 sec
+106 Neominois_Ridingsii-001
+4 min 46 sec
